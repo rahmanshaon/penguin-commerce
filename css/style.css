@@ -1,0 +1,86 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+/* header start here */
+/* menu style start here */
+.logo img {
+    width: 300px;
+}
+#header {
+    background-color: #FFFBF0;
+    padding-top: 20px;
+}
+.menu {
+    margin-left: auto;
+}
+.menu-item {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #3C3C3C;
+}
+.menu-icon {
+    font-size: 18px;
+    color: #010101;
+}
+.menu-li {
+    padding: 0 20px;
+}
+.menu-item:hover {
+    color: #303030;
+}
+/* menu style ends here */
+
+.banner {
+    padding: 100px 0;
+    background-color: #FFFBF0;
+}
+.left-content h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 80px;
+    color: #363958;
+}
+.left-content h1 span {
+    color: #FABE4C;
+}
+.left-content p {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #3E3E3E;
+}
+.left-content a {
+    padding: 15px 30px;
+    display: inline-block;
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border-radius: 10px;
+}
+.left-content a .fas {
+    color: #FFFFFF;
+    margin-right: 5px;
+    font-size: 14px;
+}
+.right-img img {
+    width: 400px;
+}
+/* header ends here */
