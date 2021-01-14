@@ -181,12 +181,12 @@ a {
 /* card area ends here */
 
 
-/* footer area */
+/* support area */
 
-#footer{
+#support-area{
     margin: 150px 0;
 }
-.footer-box{
+.support-box{
     background: #FFFFFF;
     box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
     border-radius: 20px;
@@ -230,7 +230,7 @@ a {
 
 @media (max-width: 991.98px) { 
 
-    .footer-box{
+    .support-box{
         text-align: center;
         justify-content: center;
         align-items: center;
@@ -249,4 +249,13 @@ a {
     
 }
 
-/* footer area endes here */
+/* support area endes here */
+
+/* footer start */
+.footer-area {
+    background-color: #FFFBF0;
+    padding: 20px 0;
+    text-align: center;
+    color: gray;
+}
+/* footer end here */
